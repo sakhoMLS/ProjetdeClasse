@@ -70,10 +70,10 @@ CREATE TABLE `etudiant` (
 --
 
 INSERT INTO `etudiant` (`id`, `nom`, `prenom`, `tel`, `id_classe`) VALUES
-(1, 'Ndiaye', 'Samba', '772135896', 4),
-(2, 'Seck', 'Alou', '778542138', 3),
-(3, 'Fall', 'Mareme', '789645823', 1),
-(5, 'Diop', 'Adama', '768945213', 5);
+(1, 'lamine', 'Sakho', '771234567', 4),
+(2, 'Sall', 'fallou', '77456789', 3),
+(3, 'Fall', 'dame', '781234567', 1),
+(5, 'Diallo', 'doudou', '768945213', 5);
 
 -- --------------------------------------------------------
 

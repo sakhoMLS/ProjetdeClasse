@@ -1,7 +1,7 @@
-Notre programme gere la getion des etudiant de ISI 
+PRORAMME DE GESTION DES ETUDIANTS
 
 
-les foctionalitées faites sont
+les foctionalités:
 
 Lister les etudiant 
 
@@ -12,4 +12,4 @@ modifier un etudiant
 supprimer un etudiant
 
 
-base de donnee : jeesamba.sql
+base de donnee : etudiant.sql
